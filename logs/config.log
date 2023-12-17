@@ -1,0 +1,118 @@
+MAIN 2023/12/10 20:52:16 config.go:81: Config:>Read application configurations
+MAIN 2023/12/10 20:52:16 config.go:85: Config:>Failed to parse gcfg data: warnings:
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+MAIN 2023/12/10 20:53:12 config.go:81: Config:>Read application configurations
+MAIN 2023/12/10 20:53:12 config.go:85: Config:>Failed to parse gcfg data: warnings:
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+MAIN 2023/12/10 20:55:23 config.go:81: Config:>Read application configurations
+MAIN 2023/12/10 20:55:23 config.go:85: Config:>Failed to parse gcfg data: warnings:
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+MAIN 2023/12/10 20:56:21 config.go:81: Config:>Read application configurations
+MAIN 2023/12/10 20:56:21 config.go:91: Config:>Failed to parse gcfg data: warnings:
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+MAIN 2023/12/10 20:56:36 config.go:81: Config:>Read application configurations
+MAIN 2023/12/10 20:57:02 config.go:91: Config:>Failed to parse gcfg data: warnings:
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+can't store data at section "RK7"
+MAIN 2023/12/10 20:57:19 config.go:81: Config:>Read application configurations
+MAIN 2023/12/10 20:57:23 config.go:81: Config:>Read application configurations
+MAIN 2023/12/10 20:57:23 config.go:93: Config:>Config is read
+MAIN 2023/12/10 20:57:31 config.go:81: Config:>Read application configurations
+MAIN 2023/12/10 20:57:35 config.go:81: Config:>Read application configurations
+MAIN 2023/12/10 20:57:35 config.go:93: Config:>Config is read
+MAIN 2023/12/10 21:01:03 config.go:81: Config:>Read application configurations
+MAIN 2023/12/10 21:01:03 config.go:93: Config:>Config is read
+MAIN 2023/12/13 13:01:37 config.go:81: Config:>Read application configurations
+MAIN 2023/12/13 13:01:37 config.go:93: Config:>Config is read
+MAIN 2023/12/13 13:01:54 config.go:81: Config:>Read application configurations
+MAIN 2023/12/13 13:01:54 config.go:93: Config:>Config is read
+MAIN 2023/12/13 13:55:27 config.go:81: Config:>Read application configurations
+MAIN 2023/12/13 13:55:27 config.go:93: Config:>Config is read
+MAIN 2023/12/13 13:56:15 config.go:81: Config:>Read application configurations
+MAIN 2023/12/13 13:56:15 config.go:93: Config:>Config is read
+MAIN 2023/12/13 14:10:09 config.go:81: Config:>Read application configurations
+MAIN 2023/12/13 14:10:09 config.go:93: Config:>Config is read
+MAIN 2023/12/13 14:20:42 config.go:81: Config:>Read application configurations
+MAIN 2023/12/13 14:20:42 config.go:93: Config:>Config is read
+MAIN 2023/12/13 14:22:30 config.go:81: Config:>Read application configurations
+MAIN 2023/12/13 14:22:30 config.go:93: Config:>Config is read
+MAIN 2023/12/16 09:54:04 config.go:81: Config:>Read application configurations
+MAIN 2023/12/16 09:54:04 config.go:93: Config:>Config is read
+MAIN 2023/12/16 09:58:05 config.go:81: Config:>Read application configurations
+MAIN 2023/12/16 09:58:05 config.go:93: Config:>Config is read
+MAIN 2023/12/17 12:51:21 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 12:51:21 config.go:93: Config:>Config is read
+MAIN 2023/12/17 12:53:01 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 12:53:01 config.go:93: Config:>Config is read
+MAIN 2023/12/17 12:54:55 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 12:54:55 config.go:93: Config:>Config is read
+MAIN 2023/12/17 13:09:26 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 13:09:26 config.go:93: Config:>Config is read
+MAIN 2023/12/17 13:10:26 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 13:10:26 config.go:93: Config:>Config is read
+MAIN 2023/12/17 13:20:49 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 13:20:49 config.go:93: Config:>Config is read
+MAIN 2023/12/17 13:21:53 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 13:21:53 config.go:93: Config:>Config is read
+MAIN 2023/12/17 13:30:40 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 13:30:40 config.go:93: Config:>Config is read
+MAIN 2023/12/17 13:36:53 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 13:36:53 config.go:93: Config:>Config is read
+MAIN 2023/12/17 13:37:32 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 13:37:32 config.go:93: Config:>Config is read
+MAIN 2023/12/17 13:40:41 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 13:40:41 config.go:93: Config:>Config is read
+MAIN 2023/12/17 19:13:04 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 19:13:04 config.go:93: Config:>Config is read
+MAIN 2023/12/17 19:14:53 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 19:14:53 config.go:93: Config:>Config is read
+MAIN 2023/12/17 19:15:21 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 19:15:21 config.go:93: Config:>Config is read
+MAIN 2023/12/17 19:30:15 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 19:30:15 config.go:93: Config:>Config is read
+MAIN 2023/12/17 19:31:43 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 19:31:43 config.go:93: Config:>Config is read
+MAIN 2023/12/17 19:33:09 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 19:33:09 config.go:93: Config:>Config is read
+MAIN 2023/12/17 19:33:47 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 19:33:47 config.go:93: Config:>Config is read
+MAIN 2023/12/17 19:34:20 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 19:34:20 config.go:93: Config:>Config is read
+MAIN 2023/12/17 19:46:29 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 19:46:29 config.go:93: Config:>Config is read
+MAIN 2023/12/17 20:03:38 config.go:81: Config:>Read application configurations
+MAIN 2023/12/17 20:03:38 config.go:93: Config:>Config is read

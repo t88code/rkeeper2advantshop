@@ -1,0 +1,1923 @@
+[36mINFO[0m[2023-12-10 20:57:38] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-10 20:59:26] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-10 20:59:26] Request: &{GET /GetCardInfoEx HTTP/1.1 1 1 map[Accept:[*/*] Accept-Encoding:[gzip, deflate, br] Cache-Control:[no-cache] Connection:[keep-alive] Postman-Token:[32ce322f-5212-4b2f-8d89-04ab57d845e6] User-Agent:[PostmanRuntime/7.33.0]] {} <nil> 0 [] false 127.0.0.1:8000 map[] map[] <nil> map[] 127.0.0.1:64581 /GetCardInfoEx <nil> <nil> <nil> 0x140002b6440} 
+[37mDEBU[0m[2023-12-10 20:59:26] Method: GET                                  
+[37mDEBU[0m[2023-12-10 20:59:26] Host: 127.0.0.1:8000                         
+[37mDEBU[0m[2023-12-10 20:59:26] URL: /GetCardInfoEx                          
+[37mDEBU[0m[2023-12-10 20:59:26] RequestURI: /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-10 20:59:26] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-10 20:59:26] Form: map[]                                  
+[37mDEBU[0m[2023-12-10 20:59:26] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-10 20:59:26] ContentLength: 0                             
+[37mDEBU[0m[2023-12-10 20:59:26] Header: map[Accept:[*/*] Accept-Encoding:[gzip, deflate, br] Cache-Control:[no-cache] Connection:[keep-alive] Postman-Token:[32ce322f-5212-4b2f-8d89-04ab57d845e6] User-Agent:[PostmanRuntime/7.33.0]] 
+[36mINFO[0m[2023-12-10 20:59:26] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-10 21:00:00] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-10 21:00:00] Completed GET /GetCardInfoEx in 33.131972709s 
+[36mINFO[0m[2023-12-10 21:01:03] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-10 21:01:07] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-10 21:01:07] Request: &{GET /GetCardInfoEx HTTP/1.1 1 1 map[Accept:[*/*] Accept-Encoding:[gzip, deflate, br] Cache-Control:[no-cache] Connection:[keep-alive] Postman-Token:[13622fae-c309-482f-8e13-4a0e2fd06052] User-Agent:[PostmanRuntime/7.33.0]] {} <nil> 0 [] false 127.0.0.1:8000 map[] map[] <nil> map[] 127.0.0.1:64651 /GetCardInfoEx <nil> <nil> <nil> 0x14000112380} 
+[37mDEBU[0m[2023-12-10 21:01:07] Method: GET                                  
+[37mDEBU[0m[2023-12-10 21:01:07] Host: 127.0.0.1:8000                         
+[37mDEBU[0m[2023-12-10 21:01:07] URL: /GetCardInfoEx                          
+[37mDEBU[0m[2023-12-10 21:01:07] RequestURI: /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-10 21:01:07] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-10 21:01:07] Form: map[]                                  
+[37mDEBU[0m[2023-12-10 21:01:07] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-10 21:01:07] ContentLength: 0                             
+[37mDEBU[0m[2023-12-10 21:01:07] Header: map[Accept:[*/*] Accept-Encoding:[gzip, deflate, br] Cache-Control:[no-cache] Connection:[keep-alive] Postman-Token:[13622fae-c309-482f-8e13-4a0e2fd06052] User-Agent:[PostmanRuntime/7.33.0]] 
+[36mINFO[0m[2023-12-10 21:01:07] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-10 21:01:07] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-10 21:01:07] Completed GET /GetCardInfoEx in 786.291µs    
+[36mINFO[0m[2023-12-13 13:01:37] Start service Advantshop Integrations v1.0   
+[36mINFO[0m[2023-12-13 13:01:54] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-13 13:04:54] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 13:04:54] Request: &{GET /GetCardInfoEx HTTP/1.1 1 1 map[Accept:[*/*] Accept-Encoding:[gzip, deflate, br] Cache-Control:[no-cache] Connection:[keep-alive] Postman-Token:[557b2b79-d995-490d-a5b1-0ce8b890a2da] User-Agent:[PostmanRuntime/7.33.0]] {} <nil> 0 [] false 127.0.0.1:8000 map[] map[] <nil> map[] 127.0.0.1:62654 /GetCardInfoEx <nil> <nil> <nil> 0x140002518c0} 
+[37mDEBU[0m[2023-12-13 13:04:54] Method: GET                                  
+[37mDEBU[0m[2023-12-13 13:04:54] Host: 127.0.0.1:8000                         
+[37mDEBU[0m[2023-12-13 13:04:54] URL: /GetCardInfoEx                          
+[37mDEBU[0m[2023-12-13 13:04:54] RequestURI: /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 13:04:54] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 13:04:54] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 13:04:54] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 13:04:54] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 13:04:54] Header: map[Accept:[*/*] Accept-Encoding:[gzip, deflate, br] Cache-Control:[no-cache] Connection:[keep-alive] Postman-Token:[557b2b79-d995-490d-a5b1-0ce8b890a2da] User-Agent:[PostmanRuntime/7.33.0]] 
+[36mINFO[0m[2023-12-13 13:04:54] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 13:04:54] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 13:04:54] Completed GET /GetCardInfoEx in 1.610791ms   
+[37mDEBU[0m[2023-12-13 13:20:45] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 13:20:45] Request: &{GET /GetCardInfoEx?card=123123 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:55015 /GetCardInfoEx?card=123123 <nil> <nil> <nil> 0x14000251dc0} 
+[37mDEBU[0m[2023-12-13 13:20:45] Method: GET                                  
+[37mDEBU[0m[2023-12-13 13:20:45] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 13:20:45] URL: /GetCardInfoEx?card=123123              
+[37mDEBU[0m[2023-12-13 13:20:45] RequestURI: /GetCardInfoEx?card=123123       
+[37mDEBU[0m[2023-12-13 13:20:45] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 13:20:45] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 13:20:45] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 13:20:45] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 13:20:45] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 13:20:45] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 13:20:45] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 13:20:45] Completed GET /GetCardInfoEx in 1.588417ms   
+[37mDEBU[0m[2023-12-13 13:55:09] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 13:55:09] Request: &{GET /GetCardInfoEx?card=123 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:59257 /GetCardInfoEx?card=123 <nil> <nil> <nil> 0x140002aa2c0} 
+[37mDEBU[0m[2023-12-13 13:55:09] Method: GET                                  
+[37mDEBU[0m[2023-12-13 13:55:09] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 13:55:09] URL: /GetCardInfoEx?card=123                 
+[37mDEBU[0m[2023-12-13 13:55:09] RequestURI: /GetCardInfoEx?card=123          
+[37mDEBU[0m[2023-12-13 13:55:09] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 13:55:09] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 13:55:09] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 13:55:09] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 13:55:09] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 13:55:09] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 13:55:09] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 13:55:09] Completed GET /GetCardInfoEx in 10.69625ms   
+[36mINFO[0m[2023-12-13 13:55:30] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-13 13:55:33] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 13:55:33] Request: &{GET /GetCardInfoEx?card=123 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:59309 /GetCardInfoEx?card=123 <nil> <nil> <nil> 0x140001a0600} 
+[37mDEBU[0m[2023-12-13 13:55:33] Method: GET                                  
+[37mDEBU[0m[2023-12-13 13:55:33] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 13:55:33] URL: /GetCardInfoEx?card=123                 
+[37mDEBU[0m[2023-12-13 13:55:33] RequestURI: /GetCardInfoEx?card=123          
+[37mDEBU[0m[2023-12-13 13:55:33] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 13:55:33] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 13:55:33] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 13:55:33] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 13:55:33] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 13:55:33] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 13:55:33] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 13:55:33] Completed GET /GetCardInfoEx in 810.416µs    
+[36mINFO[0m[2023-12-13 13:56:16] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-13 13:57:04] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 13:57:04] Request: &{GET /GetCardInfoEx?card=321 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:59493 /GetCardInfoEx?card=321 <nil> <nil> <nil> 0x140001d1680} 
+[37mDEBU[0m[2023-12-13 13:57:04] Method: GET                                  
+[37mDEBU[0m[2023-12-13 13:57:04] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 13:57:04] URL: /GetCardInfoEx?card=321                 
+[37mDEBU[0m[2023-12-13 13:57:04] RequestURI: /GetCardInfoEx?card=321          
+[37mDEBU[0m[2023-12-13 13:57:04] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 13:57:04] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 13:57:04] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 13:57:04] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 13:57:04] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 13:57:04] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 13:57:04] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 13:57:04] Completed GET /GetCardInfoEx in 1.291042ms   
+[36mINFO[0m[2023-12-13 14:10:11] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-13 14:10:41] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 14:10:41] Request: &{GET /GetCardInfoEx?card=321 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:61156 /GetCardInfoEx?card=321 <nil> <nil> <nil> 0x140000362c0} 
+[37mDEBU[0m[2023-12-13 14:10:41] Method: GET                                  
+[37mDEBU[0m[2023-12-13 14:10:41] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 14:10:41] URL: /GetCardInfoEx?card=321                 
+[37mDEBU[0m[2023-12-13 14:10:41] RequestURI: /GetCardInfoEx?card=321          
+[37mDEBU[0m[2023-12-13 14:10:41] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 14:10:41] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 14:10:41] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 14:10:41] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 14:10:41] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 14:10:41] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 14:10:41] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 14:10:41] Completed GET /GetCardInfoEx in 1.066542ms   
+[37mDEBU[0m[2023-12-13 14:19:02] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 14:19:02] Request: &{GET /GetCardInfoEx?card=123 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:62181 /GetCardInfoEx?card=123 <nil> <nil> <nil> 0x14000304240} 
+[37mDEBU[0m[2023-12-13 14:19:02] Method: GET                                  
+[37mDEBU[0m[2023-12-13 14:19:02] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 14:19:02] URL: /GetCardInfoEx?card=123                 
+[37mDEBU[0m[2023-12-13 14:19:02] RequestURI: /GetCardInfoEx?card=123          
+[37mDEBU[0m[2023-12-13 14:19:02] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 14:19:02] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 14:19:02] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 14:19:02] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 14:19:02] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 14:19:02] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 14:19:02] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 14:19:02] Completed GET /GetCardInfoEx in 1.917292ms   
+[37mDEBU[0m[2023-12-13 14:19:37] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 14:19:37] Request: &{GET /GetCardInfoEx?card=321 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:62290 /GetCardInfoEx?card=321 <nil> <nil> <nil> 0x14000036800} 
+[37mDEBU[0m[2023-12-13 14:19:37] Method: GET                                  
+[37mDEBU[0m[2023-12-13 14:19:37] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 14:19:37] URL: /GetCardInfoEx?card=321                 
+[37mDEBU[0m[2023-12-13 14:19:37] RequestURI: /GetCardInfoEx?card=321          
+[37mDEBU[0m[2023-12-13 14:19:37] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 14:19:37] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 14:19:37] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 14:19:37] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 14:19:37] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 14:19:37] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 14:19:37] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 14:19:37] Completed GET /GetCardInfoEx in 966.166µs    
+[36mINFO[0m[2023-12-13 14:20:44] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-13 14:20:51] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 14:20:51] Request: &{GET /GetCardInfoEx?card=321 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:62442 /GetCardInfoEx?card=321 <nil> <nil> <nil> 0x140001b16c0} 
+[37mDEBU[0m[2023-12-13 14:20:51] Method: GET                                  
+[37mDEBU[0m[2023-12-13 14:20:51] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 14:20:51] URL: /GetCardInfoEx?card=321                 
+[37mDEBU[0m[2023-12-13 14:20:51] RequestURI: /GetCardInfoEx?card=321          
+[37mDEBU[0m[2023-12-13 14:20:51] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 14:20:51] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 14:20:51] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 14:20:51] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 14:20:51] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 14:20:51] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 14:20:51] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 14:20:51] Completed GET /GetCardInfoEx in 733.25µs     
+[37mDEBU[0m[2023-12-13 14:20:59] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 14:20:59] Request: &{GET /GetCardInfoEx?card=321 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:62456 /GetCardInfoEx?card=321 <nil> <nil> <nil> 0x140001b1c00} 
+[37mDEBU[0m[2023-12-13 14:20:59] Method: GET                                  
+[37mDEBU[0m[2023-12-13 14:20:59] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 14:20:59] URL: /GetCardInfoEx?card=321                 
+[37mDEBU[0m[2023-12-13 14:20:59] RequestURI: /GetCardInfoEx?card=321          
+[37mDEBU[0m[2023-12-13 14:20:59] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 14:20:59] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 14:20:59] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 14:20:59] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 14:20:59] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 14:20:59] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 14:20:59] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 14:20:59] Completed GET /GetCardInfoEx in 1.173333ms   
+[37mDEBU[0m[2023-12-13 14:21:15] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 14:21:15] Request: &{GET /GetCardInfoEx?card=321 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:62491 /GetCardInfoEx?card=321 <nil> <nil> <nil> 0x140001ec100} 
+[37mDEBU[0m[2023-12-13 14:21:15] Method: GET                                  
+[37mDEBU[0m[2023-12-13 14:21:15] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 14:21:15] URL: /GetCardInfoEx?card=321                 
+[37mDEBU[0m[2023-12-13 14:21:15] RequestURI: /GetCardInfoEx?card=321          
+[37mDEBU[0m[2023-12-13 14:21:15] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 14:21:15] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 14:21:15] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 14:21:15] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 14:21:15] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 14:21:15] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 14:21:15] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 14:21:15] Completed GET /GetCardInfoEx in 776.875µs    
+[37mDEBU[0m[2023-12-13 14:22:04] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 14:22:04] Request: &{GET /GetCardInfoEx?card=321 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:62593 /GetCardInfoEx?card=321 <nil> <nil> <nil> 0x140001ec600} 
+[37mDEBU[0m[2023-12-13 14:22:04] Method: GET                                  
+[37mDEBU[0m[2023-12-13 14:22:04] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 14:22:04] URL: /GetCardInfoEx?card=321                 
+[37mDEBU[0m[2023-12-13 14:22:04] RequestURI: /GetCardInfoEx?card=321          
+[37mDEBU[0m[2023-12-13 14:22:04] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 14:22:04] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 14:22:04] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 14:22:04] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 14:22:04] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 14:22:04] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 14:22:04] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 14:22:04] Completed GET /GetCardInfoEx in 1.438958ms   
+[36mINFO[0m[2023-12-13 14:22:31] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-13 14:22:36] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 14:22:36] Request: &{GET /GetCardInfoEx?card=321 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:62660 /GetCardInfoEx?card=321 <nil> <nil> <nil> 0x14000249680} 
+[37mDEBU[0m[2023-12-13 14:22:36] Method: GET                                  
+[37mDEBU[0m[2023-12-13 14:22:36] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 14:22:36] URL: /GetCardInfoEx?card=321                 
+[37mDEBU[0m[2023-12-13 14:22:36] RequestURI: /GetCardInfoEx?card=321          
+[37mDEBU[0m[2023-12-13 14:22:36] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 14:22:36] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 14:22:36] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 14:22:36] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 14:22:36] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 14:22:36] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 14:22:36] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 14:22:36] Completed GET /GetCardInfoEx in 711.042µs    
+[37mDEBU[0m[2023-12-13 14:22:48] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-13 14:22:48] Request: &{GET /GetCardInfoEx?card=321 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:62687 /GetCardInfoEx?card=321 <nil> <nil> <nil> 0x140000362c0} 
+[37mDEBU[0m[2023-12-13 14:22:48] Method: GET                                  
+[37mDEBU[0m[2023-12-13 14:22:48] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-13 14:22:48] URL: /GetCardInfoEx?card=321                 
+[37mDEBU[0m[2023-12-13 14:22:48] RequestURI: /GetCardInfoEx?card=321          
+[37mDEBU[0m[2023-12-13 14:22:48] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-13 14:22:48] Form: map[]                                  
+[37mDEBU[0m[2023-12-13 14:22:48] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-13 14:22:48] ContentLength: 0                             
+[37mDEBU[0m[2023-12-13 14:22:48] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-13 14:22:48] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-13 14:22:48] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-13 14:22:48] Completed GET /GetCardInfoEx in 1.177125ms   
+[36mINFO[0m[2023-12-16 09:54:05] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-16 09:54:13] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-16 09:54:13] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:56610 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x14000112640} 
+[37mDEBU[0m[2023-12-16 09:54:13] Method: GET                                  
+[37mDEBU[0m[2023-12-16 09:54:13] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-16 09:54:13] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-16 09:54:13] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-16 09:54:13] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-16 09:54:13] Form: map[]                                  
+[37mDEBU[0m[2023-12-16 09:54:13] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-16 09:54:13] ContentLength: 0                             
+[37mDEBU[0m[2023-12-16 09:54:13] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-16 09:54:13] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-16 09:54:17] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-16T09:54:17.625233+03:00
+TIME DURATION: 3.878445042s
+HEADERS      :
+	Cache-Control: private
+	Content-Length: 44
+	Content-Type: application/json; charset=utf-8
+	Date: Sat, 16 Dec 2023 06:54:17 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "status": "error",
+   "errors": "Invalid apikey"
+}
+============================================================================== 
+[36mINFO[0m[2023-12-16 09:54:17] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-16 09:58:05] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-16 09:59:40] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-16 09:59:40] Request: &{GET /GetCardInfoEx?card=321 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:57300 /GetCardInfoEx?card=321 <nil> <nil> <nil> 0x1400021a6c0} 
+[37mDEBU[0m[2023-12-16 09:59:40] Method: GET                                  
+[37mDEBU[0m[2023-12-16 09:59:40] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-16 09:59:40] URL: /GetCardInfoEx?card=321                 
+[37mDEBU[0m[2023-12-16 09:59:40] RequestURI: /GetCardInfoEx?card=321          
+[37mDEBU[0m[2023-12-16 09:59:40] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-16 09:59:40] Form: map[]                                  
+[37mDEBU[0m[2023-12-16 09:59:40] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-16 09:59:40] ContentLength: 0                             
+[37mDEBU[0m[2023-12-16 09:59:40] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-16 09:59:40] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-16 09:59:40] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-16 09:59:40] Completed GET /GetCardInfoEx in 927.917µs    
+[36mINFO[0m[2023-12-17 12:51:21] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 12:52:05] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 12:52:05] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:53563 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x140003363c0} 
+[37mDEBU[0m[2023-12-17 12:52:05] Method: GET                                  
+[37mDEBU[0m[2023-12-17 12:52:05] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 12:52:05] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 12:52:05] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 12:52:05] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 12:52:05] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 12:52:05] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 12:52:05] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 12:52:05] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 12:52:05] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 12:52:06] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T12:52:06.132112+03:00
+TIME DURATION: 258.270917ms
+HEADERS      :
+	Cache-Control: private
+	Content-Length: 44
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 09:52:05 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "status": "error",
+   "errors": "Invalid apikey"
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 12:52:06] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 12:52:06] Completed GET /GetCardInfoEx in 260.32175ms  
+[36mINFO[0m[2023-12-17 12:53:01] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 12:53:49] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 12:53:49] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:53779 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x140000367c0} 
+[37mDEBU[0m[2023-12-17 12:53:49] Method: GET                                  
+[37mDEBU[0m[2023-12-17 12:53:49] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 12:53:49] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 12:53:49] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 12:53:49] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 12:53:49] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 12:53:49] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 12:53:49] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 12:53:49] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 12:53:49] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 12:53:49] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T12:53:49.437605+03:00
+TIME DURATION: 101.044042ms
+HEADERS      :
+	Cache-Control: private
+	Content-Length: 44
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 09:53:48 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "status": "error",
+   "errors": "Invalid apikey"
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 12:53:49] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 12:53:49] Completed GET /GetCardInfoEx in 103.041042ms 
+[36mINFO[0m[2023-12-17 12:54:56] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 12:56:30] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 12:56:30] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:54109 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x14000249640} 
+[37mDEBU[0m[2023-12-17 12:56:30] Method: GET                                  
+[37mDEBU[0m[2023-12-17 12:56:30] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 12:56:30] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 12:56:30] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 12:56:30] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 12:56:30] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 12:56:30] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 12:56:30] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 12:56:30] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 12:56:30] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 12:56:30] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T12:56:30.373122+03:00
+TIME DURATION: 204.464542ms
+HEADERS      :
+	Cache-Control: private
+	Content-Length: 44
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 09:56:29 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "status": "error",
+   "errors": "Invalid apikey"
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 12:56:30] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 12:56:30] Completed GET /GetCardInfoEx in 206.823708ms 
+[36mINFO[0m[2023-12-17 13:09:27] Start service Advantshop Integrations v1.0   
+[36mINFO[0m[2023-12-17 13:10:26] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 13:10:59] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 13:10:59] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:56290 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x14000036940} 
+[37mDEBU[0m[2023-12-17 13:10:59] Method: GET                                  
+[37mDEBU[0m[2023-12-17 13:10:59] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 13:10:59] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 13:10:59] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 13:10:59] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 13:10:59] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 13:10:59] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 13:10:59] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 13:10:59] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 13:10:59] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 13:10:59] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T13:10:59.268338+03:00
+TIME DURATION: 234.939833ms
+HEADERS      :
+	Cache-Control: private
+	Content-Length: 44
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 10:10:59 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "status": "error",
+   "errors": "Invalid apikey"
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 13:10:59] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 13:10:59] Completed GET /GetCardInfoEx in 236.970625ms 
+[36mINFO[0m[2023-12-17 13:20:49] Start service Advantshop Integrations v1.0   
+[36mINFO[0m[2023-12-17 13:21:53] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 13:24:12] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 13:24:12] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:57953 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x14000251500} 
+[37mDEBU[0m[2023-12-17 13:24:12] Method: GET                                  
+[37mDEBU[0m[2023-12-17 13:24:12] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 13:24:12] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 13:24:12] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 13:24:12] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 13:24:12] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 13:24:12] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 13:24:12] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 13:24:12] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 13:24:12] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 13:24:12] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T13:24:12.383391+03:00
+TIME DURATION: 233.7775ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 10:24:12 GMT
+	Expires: Sun, 17 Dec 2023 10:24:13 GMT
+	Last-Modified: Sun, 17 Dec 2023 10:24:06 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Set-Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; domain=.354630-mxiu.on-advantshop.net; expires=Mon, 01-Jan-2024 15:48:12 GMT; path=/; HttpOnly, customer=64017fb5-a504-4aa6-8dfd-70d498285d4d; domain=.354630-mxiu.on-advantshop.net; expires=Sat, 16-Mar-2024 10:24:12 GMT; path=/; HttpOnly
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 13:24:12] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 13:24:12] Completed GET /GetCardInfoEx in 236.432708ms 
+[36mINFO[0m[2023-12-17 13:30:40] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 13:31:24] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 13:31:24] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:58852 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x140002124c0} 
+[37mDEBU[0m[2023-12-17 13:31:24] Method: GET                                  
+[37mDEBU[0m[2023-12-17 13:31:24] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 13:31:24] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 13:31:24] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 13:31:24] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 13:31:24] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 13:31:24] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 13:31:24] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 13:31:24] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 13:31:24] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 13:31:24] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T13:31:24.396434+03:00
+TIME DURATION: 194.0645ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 10:31:23 GMT
+	Expires: Sun, 17 Dec 2023 10:31:25 GMT
+	Last-Modified: Sun, 17 Dec 2023 10:31:06 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Set-Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; domain=.354630-mxiu.on-advantshop.net; expires=Mon, 01-Jan-2024 15:55:24 GMT; path=/; HttpOnly, customer=3bada98e-f268-43c2-a3a1-f4d7ad953bde; domain=.354630-mxiu.on-advantshop.net; expires=Sat, 16-Mar-2024 10:31:24 GMT; path=/; HttpOnly
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 13:31:24] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 13:31:24] Completed GET /GetCardInfoEx in 196.493292ms 
+[36mINFO[0m[2023-12-17 13:36:53] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 13:36:53] 123123                                       
+[36mINFO[0m[2023-12-17 13:36:53] End Main                                     
+[36mINFO[0m[2023-12-17 13:37:32] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 13:37:54] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 13:37:54] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:59684 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x140000a0540} 
+[37mDEBU[0m[2023-12-17 13:37:54] Method: GET                                  
+[37mDEBU[0m[2023-12-17 13:37:54] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 13:37:54] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 13:37:54] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 13:37:54] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 13:37:54] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 13:37:54] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 13:37:54] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 13:37:54] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 13:37:54] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 13:37:54] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T13:37:54.459199+03:00
+TIME DURATION: 115.336792ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 10:37:54 GMT
+	Expires: Sun, 17 Dec 2023 10:37:55 GMT
+	Last-Modified: Sun, 17 Dec 2023 10:37:25 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Set-Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; domain=.354630-mxiu.on-advantshop.net; expires=Mon, 01-Jan-2024 16:01:54 GMT; path=/; HttpOnly, customer=7b1c1e53-aba2-42cf-8ecf-067bc0cfa615; domain=.354630-mxiu.on-advantshop.net; expires=Sat, 16-Mar-2024 10:37:54 GMT; path=/; HttpOnly
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 13:37:54] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 13:37:54] Completed GET /GetCardInfoEx in 117.009167ms 
+[36mINFO[0m[2023-12-17 13:40:41] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 13:41:06] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 13:41:06] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:60080 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x14000300200} 
+[37mDEBU[0m[2023-12-17 13:41:06] Method: GET                                  
+[37mDEBU[0m[2023-12-17 13:41:06] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 13:41:06] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 13:41:06] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 13:41:06] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 13:41:06] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 13:41:06] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 13:41:06] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 13:41:06] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 13:41:06] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 13:41:06] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T13:41:06.336205+03:00
+TIME DURATION: 44.360917ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 10:41:06 GMT
+	Expires: Sun, 17 Dec 2023 10:41:07 GMT
+	Last-Modified: Sun, 17 Dec 2023 10:41:06 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Set-Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; domain=.354630-mxiu.on-advantshop.net; expires=Mon, 01-Jan-2024 16:05:06 GMT; path=/; HttpOnly, customer=2853eda4-194a-4369-9d2a-6ee6b5146111; domain=.354630-mxiu.on-advantshop.net; expires=Sat, 16-Mar-2024 10:41:06 GMT; path=/; HttpOnly
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 13:41:06] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 13:41:06] Completed GET /GetCardInfoEx in 46.281667ms  
+[37mDEBU[0m[2023-12-17 13:59:52] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 13:59:52] Request: &{GET /GetCardInfoEx?card=9631087654 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:62421 /GetCardInfoEx?card=9631087654 <nil> <nil> <nil> 0x14000300a80} 
+[37mDEBU[0m[2023-12-17 13:59:52] Method: GET                                  
+[37mDEBU[0m[2023-12-17 13:59:52] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 13:59:52] URL: /GetCardInfoEx?card=9631087654          
+[37mDEBU[0m[2023-12-17 13:59:52] RequestURI: /GetCardInfoEx?card=9631087654   
+[37mDEBU[0m[2023-12-17 13:59:52] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 13:59:52] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 13:59:52] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 13:59:52] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 13:59:52] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 13:59:52] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 13:59:52] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; customer=2853eda4-194a-4369-9d2a-6ee6b5146111
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T13:59:52.309522+03:00
+TIME DURATION: 93.21325ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 10:59:52 GMT
+	Expires: Sun, 17 Dec 2023 10:59:53 GMT
+	Last-Modified: Sun, 17 Dec 2023 10:59:25 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 13:59:52] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 13:59:52] Completed GET /GetCardInfoEx in 95.566667ms  
+[37mDEBU[0m[2023-12-17 14:00:04] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 14:00:04] Request: &{GET /GetCardInfoEx?card=79631087654 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:62448 /GetCardInfoEx?card=79631087654 <nil> <nil> <nil> 0x140001b15c0} 
+[37mDEBU[0m[2023-12-17 14:00:04] Method: GET                                  
+[37mDEBU[0m[2023-12-17 14:00:04] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 14:00:04] URL: /GetCardInfoEx?card=79631087654         
+[37mDEBU[0m[2023-12-17 14:00:04] RequestURI: /GetCardInfoEx?card=79631087654  
+[37mDEBU[0m[2023-12-17 14:00:04] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 14:00:04] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 14:00:04] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 14:00:04] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 14:00:04] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 14:00:04] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 14:00:05] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611&phone=9154184611&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; customer=2853eda4-194a-4369-9d2a-6ee6b5146111
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T14:00:05.039592+03:00
+TIME DURATION: 51.589583ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 11:00:04 GMT
+	Expires: Sun, 17 Dec 2023 11:00:06 GMT
+	Last-Modified: Sun, 17 Dec 2023 11:00:02 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 14:00:05] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 14:00:05] Completed GET /GetCardInfoEx in 52.82375ms   
+[37mDEBU[0m[2023-12-17 14:00:21] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 14:00:21] Request: &{GET /GetCardInfoEx?card=79631087654 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.27:62484 /GetCardInfoEx?card=79631087654 <nil> <nil> <nil> 0x1400021a4c0} 
+[37mDEBU[0m[2023-12-17 14:00:21] Method: GET                                  
+[37mDEBU[0m[2023-12-17 14:00:21] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 14:00:21] URL: /GetCardInfoEx?card=79631087654         
+[37mDEBU[0m[2023-12-17 14:00:21] RequestURI: /GetCardInfoEx?card=79631087654  
+[37mDEBU[0m[2023-12-17 14:00:21] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 14:00:21] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 14:00:21] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 14:00:21] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 14:00:21] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 14:00:21] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 14:00:21] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611&phone=9154184611&phone=9154184611&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; customer=2853eda4-194a-4369-9d2a-6ee6b5146111
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T14:00:21.513656+03:00
+TIME DURATION: 20.392709ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 11:00:21 GMT
+	Expires: Sun, 17 Dec 2023 11:00:22 GMT
+	Last-Modified: Sun, 17 Dec 2023 11:00:19 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 14:00:21] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 14:00:21] Completed GET /GetCardInfoEx in 21.55775ms   
+[36mINFO[0m[2023-12-17 19:13:04] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 19:14:19] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:14:19] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.20:52249 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x14000251500} 
+[37mDEBU[0m[2023-12-17 19:14:19] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:14:19] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:14:19] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 19:14:19] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 19:14:19] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:14:19] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:14:19] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:14:19] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:14:19] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:14:19] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 19:14:19] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:14:19.391304+03:00
+TIME DURATION: 321.927125ms
+HEADERS      :
+	Cache-Control: private
+	Content-Length: 44
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:14:19 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "status": "error",
+   "errors": "Invalid apikey"
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 19:14:19] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:14:19] Completed GET /GetCardInfoEx in 323.882042ms 
+[36mINFO[0m[2023-12-17 19:14:53] Start service Advantshop Integrations v1.0   
+[36mINFO[0m[2023-12-17 19:15:21] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 19:15:45] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:15:45] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.20:52428 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x140001b1640} 
+[37mDEBU[0m[2023-12-17 19:15:45] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:15:45] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:15:45] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 19:15:45] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 19:15:45] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:15:45] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:15:45] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:15:45] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:15:45] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:15:45] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 19:15:45] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:15:45.388691+03:00
+TIME DURATION: 71.535208ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 2544
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:15:45 GMT
+	Expires: Sun, 17 Dec 2023 16:15:46 GMT
+	Last-Modified: Sun, 17 Dec 2023 16:15:35 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Set-Cookie: customer=8d1d0afa-833a-4209-81f4-dab91ef3a411; domain=.354630-mxiu.on-advantshop.net; expires=Sat, 16-Mar-2024 16:15:45 GMT; path=/; HttpOnly
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [
+      {
+         "id": "8d681e2b-987c-4afc-aeb7-baac41321063",
+         "email": "max@uface.ru",
+         "phone": 79631087654,
+         "firstName": "Тест база",
+         "lastName": "Тест",
+         "patronymic": "",
+         "organization": "",
+         "subscribedForNews": false,
+         "birthday": "1990-09-12T00:00:00",
+         "adminComment": "",
+         "managerId": null,
+         "groupId": 4,
+         "group": null,
+         "customerType": "0",
+         "isAgreeForPromotionalNewsletter": true
+      },
+      {
+         "id": "232d2cd0-ce5a-49ce-bcc9-73b092ced238",
+         "email": "myemail1@email.com",
+         "phone": 79269218954,
+         "firstName": "Виктор",
+         "lastName": "Злобин",
+         "patronymic": "",
+         "organization": null,
+         "subscribedForNews": false,
+         "birthday": "1986-05-12T00:00:00",
+         "adminComment": null,
+         "managerId": null,
+         "groupId": 1,
+         "group": null,
+         "customerType": "0",
+         "isAgreeForPromotionalNewsletter": true
+      },
+      {
+         "id": "ae078cdd-d8a9-455d-9cc8-e7f8972370a6",
+         "email": "myemail@email.com",
+         "phone": 79269218953,
+         "firstName": "Виктор",
+         "lastName": "Злобин",
+         "patronymic": "",
+         "organization": null,
+         "subscribedForNews": false,
+         "birthday": "1986-05-12T00:00:00",
+         "adminComment": null,
+         "managerId": null,
+         "groupId": 1,
+         "group": null,
+         "customerType": "0",
+         "isAgreeForPromotionalNewsletter": true
+      },
+      {
+         "id": "e01f3312-ff5a-41bd-b11e-2340e28e9557",
+         "email": "glfkusxvbiqjhwe@icgorkhdfetyxas.com",
+         "phone": 79269218952,
+         "firstName": "Егор",
+         "lastName": "Маркин",
+         "patronymic": "",
+         "organization": null,
+         "subscribedForNews": false,
+         "birthday": "1969-08-04T07:10:00",
+         "adminComment": null,
+         "managerId": null,
+         "groupId": 1,
+         "group": null,
+         "customerType": "0",
+         "isAgreeForPromotionalNewsletter": true
+      },
+      {
+         "id": "80c90512-79b9-4252-946a-b84cf8a64f0a",
+         "email": "novikov@restocrm.com",
+         "phone": 34534534534,
+         "firstName": "Тест",
+         "lastName": "Тестов",
+         "patronymic": "Тестович",
+         "organization": "ООО ААА",
+         "subscribedForNews": true,
+         "birthday": "1999-09-16T00:00:00",
+         "adminComment": "",
+         "managerId": 6,
+         "groupId": 1,
+         "group": null,
+         "customerType": "0",
+         "isAgreeForPromotionalNewsletter": true
+      },
+      {
+         "id": "5a634bea-af05-41d7-8e77-0fc566194202",
+         "email": "",
+         "phone": 79898799899,
+         "firstName": "1",
+         "lastName": "1",
+         "patronymic": "1",
+         "organization": "1",
+         "subscribedForNews": false,
+         "birthday": null,
+         "adminComment": null,
+         "managerId": null,
+         "groupId": 1,
+         "group": null,
+         "customerType": "0",
+         "isAgreeForPromotionalNewsletter": true
+      },
+      {
+         "id": "39bf9707-51ae-4682-88e5-5428f9e90b45",
+         "email": "",
+         "phone": 54645656456,
+         "firstName": "12312",
+         "lastName": "1121",
+         "patronymic": "",
+         "organization": "",
+         "subscribedForNews": false,
+         "birthday": null,
+         "adminComment": null,
+         "managerId": null,
+         "groupId": 1,
+         "group": null,
+         "customerType": "0",
+         "isAgreeForPromotionalNewsletter": true
+      }
+   ],
+   "pagination": {
+      "count": 7,
+      "currentPage": 1,
+      "totalCount": 7,
+      "totalPageCount": 1
+   }
+}
+============================================================================== 
+[37mDEBU[0m[2023-12-17 19:15:45] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/8d681e2b-987c-4afc-aeb7-baac41321063/bonuses?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	Cookie: customer=8d1d0afa-833a-4209-81f4-dab91ef3a411
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:15:45.810083+03:00
+TIME DURATION: 419.548125ms
+HEADERS      :
+	Cache-Control: no-cache, no-store
+	Content-Length: 12984
+	Content-Type: text/html; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:15:45 GMT
+	Expires: -1
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Pragma: no-cache
+	Set-Cookie: s=ghe5wsc3aqsozm4zid251lwn; path=/; HttpOnly; SameSite=Lax, advs=%7b%22d%22%3a%222023-12-17T19%3a15%3a45.9040292%2b03%3a00%22%2c%22u%22%3a%22http%3a%2f%2f354630-mxiu.on-advantshop.net%2fapi%2f8d681e2b-987c-4afc-aeb7-baac41321063%2fbonuses%3fapikey%3de4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13%22%2c%22h%22%3a%226b9708f76f93b44d30ba7bb654d1086d%22%2c%22i%22%3a%22213.24.134.172%22%7d; domain=.354630-mxiu.on-advantshop.net; expires=Tue, 16-Jan-2024 16:15:45 GMT; path=/
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Frame-Options: SameOrigin
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+	X-Xss-Protection: 1; mode=block
+BODY         :
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="generator" content="AdVantShop.NET">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow" />
+    <base href="http://354630-mxiu.on-advantshop.net/" />
+    <title>Сайт в разработке, мы скоро откроемся</title>
+    <style>
+        @font-face {
+            font-family: "Circe";
+            src: url("fonts/Circe/Circe.woff2") format("woff2"), url("fonts/Circe/Circe.woff") format("woff");
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+            unicode-range: U+0020-0491;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: "Montserrat";
+            src: url("fonts/Montserrat/Montserrat-Bold.woff2") format("woff2"), url("fonts/Montserrat/Montserrat-Bold.woff") format("woff");
+            font-weight: 600;
+            font-style: normal;
+            font-stretch: normal;
+            unicode-range: U+0020-0491;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: "Montserrat";
+            src: url("fonts/Montserrat/Montserrat-Medium.woff2") format("woff2"), url("fonts/Montserrat/Montserrat-Medium.woff") format("woff");
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            unicode-range: U+0020-0491;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: "Montserrat";
+            src: url("fonts/Montserrat/Montserrat-Regular.woff2") format("woff2"), url("fonts/Montserrat/Montserrat-Regular.woff") format("woff");
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+            unicode-range: U+0020-0491;
+            font-display: swap;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .container-limitation {
+            max-width: 73.75rem;
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+        .container-fluid {
+            padding-right: 0.625rem;
+            padding-left: 0.625rem;
+        }
+
+        .page-underconstruction {
+            background-color: #fff;
+        }
+
+        .page-underconstruction__header-logo {
+            text-transform: uppercase;
+            font-size: 27px;
+            font-weight: 700;
+            line-height: 1;
+            font-family: "Circe";
+            color: #0b88f2;
+        }
+
+        .page-underconstruction__block {
+            padding: 0 10px 20px;
+        }
+
+        .page-underconstruction__title {
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 1.33;
+            letter-spacing: 0em;
+            text-align: left;
+            font-family: Montserrat;
+        }
+
+        .btn-underconstruction {
+            background: #0b88f2;
+            box-shadow: 0px 16px 24px rgba(11, 136, 242, 0.2), 0px 2px 6px rgba(11, 136, 242, 0.12), 0px 0px 1px rgba(11, 136, 242, 0.04);
+            border-radius: 4px;
+            padding: 16px 24px;
+            color: #fff;
+            font-weight: 600;
+            font-size: 18px;
+            text-transform: none;
+            font-family: Montserrat;
+            display: inline-block;
+            vertical-align: middle;
+            text-decoration: none;
+            border-width: 0;
+            text-align: center;
+            border-radius: 0.3125rem;
+            line-height: 1.3;
+            box-sizing: border-box;
+            cursor: pointer;
+        }
+
+            .btn-underconstruction:last-child {
+                margin-bottom: 0;
+            }
+
+        .page-underconstruction__header {
+            display: flex;
+            justify-content: space-between;
+            background-color: transparent;
+            align-items: center;
+            padding: 20px 10px 0;
+        }
+
+            .page-underconstruction__header .btn-underconstruction {
+                display: none;
+            }
+
+        .btn_block,
+        .form-sign-in-guest {
+            width: 100%;
+        }
+
+        .btn_width-md,
+        .form-sign-in-guest {
+            max-width: 340px;
+        }
+
+        .btn-underconstruction--alt {
+            border: 1px solid #222831;
+            background-color: transparent;
+            box-sizing: border-box;
+            box-shadow: none;
+            filter: drop-shadow(0px 16px 24px rgba(11, 136, 242, 0.2)), drop-shadow(0px 2px 6px rgba(11, 136, 242, 0.12)), drop-shadow(0px 0px 1px rgba(11, 136, 242, 0.04));
+            border-radius: 4px;
+            color: #222831;
+        }
+
+        .page-underconstruction__content {
+            font-size: 15px;
+            font-family: Montserrat;
+            font-weight: 400;
+            line-height: 32px;
+            text-align: left;
+        }
+
+        .page-underconstruction__action {
+            display: grid;
+            justify-content: center;
+            flex-wrap: wrap;
+            grid-template-columns: 1fr;
+            grid-gap: 24px;
+            margin-top: 40px;
+            justify-items: center;
+            align-content: center;
+        }
+
+        .page-underconstruction__link {
+            color: #0b88f2;
+        }
+
+        .visible-xs {
+            display: block;
+        }
+
+        .hidden-xs {
+            display: none !important;
+        }
+
+        @media (min-width: 992px) {
+            .page-underconstruction {
+                background-color: #f6f7fb;
+                min-height: 100vh;
+            }
+
+            .page-underconstruction__block {
+                padding: 20px 60px 40px 60px;
+                background-color: #fff;
+                box-shadow: 0px 16px 40px rgba(207, 214, 230, 0.16), 0px 2px 16px rgba(207, 214, 230, 0.08), 0px 0px 8px rgba(207, 214, 230, 0.04);
+                border-radius: 4px;
+                max-width: 834px;
+                margin: 0 auto;
+            }
+
+            .page-underconstruction__header {
+                display: flex;
+                justify-content: space-between;
+                background-color: transparent;
+                margin-bottom: 50px;
+                padding: 32px 0 0;
+            }
+
+                .page-underconstruction__header .btn-underconstruction {
+                    display: block;
+                }
+
+            .page-underconstruction__action {
+                margin-top: 47px;
+            }
+
+            .page-underconstruction__title {
+                font-family: Circe;
+                font-size: 48px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 1.16;
+                letter-spacing: -0.01em;
+                text-align: center;
+                margin-bottom: 32px;
+            }
+
+            .page-underconstruction__content {
+                font-size: 18px;
+            }
+        }
+
+        @media (min-width: 62em) {
+            .visible-md {
+                display: block !important;
+            }
+        }
+
+        @media (min-width: 62em) {
+            .hidden-md {
+                display: none !important;
+            }
+        }
+
+        #CaptchaCode {
+            margin: 10px 0;
+            padding: 5px;
+            border-color: rgba(0,0,0,.1);
+            border-style: solid;
+            border-width: 1px;
+        }
+
+        .btn-underconstruction-submit {
+            margin-top: 10px;
+        }
+
+        .captcha-block {
+            margin: 0 auto;
+            width: 204px;
+        }
+    </style>
+</head>
+<body>
+<div class="page-underconstruction">
+    <div class="container-fluid container-limitation">
+        <div class="page-underconstruction__header">
+            <div class="page-underconstruction__header-logo">
+                ADVANTSHOP
+            </div>
+            <a class="btn  btn-underconstruction hidden-xs visible-md btn-underconstruction--alt" href="adminv2/login?frompage=closed">Войти как администратор</a>
+        </div>
+        <div class="page-underconstruction__block">
+            <h3 class="page-underconstruction__title">Сайт в разработке, мы скоро откроемся</h3>
+            <div class="page-underconstruction__content">
+                <p>У сайта ещё нет своего домена, вы зашли по техническому адресу.</p>
+                <p>Просматривать сайт может только администратор. Чтобы открыть публичный доступ к витрине, <a class="page-underconstruction__link" href="http://354630-mxiu.on-advantshop.net/adminv2/service/domainsmanage?frompage=closed">привяжите собственный домен</a> к сайту.</p>
+                <p>Если вы владелец магазина, <a class="page-underconstruction__link" href="adminv2/login?frompage=closed">авторизуйтесь как администратор.</a></p>
+                <p>Чтобы получить временный доступ к сайту, войдите как гость, введя код с картинки</p>
+            </div>
+            <div class="page-underconstruction__action">
+                <form action="http://354630-mxiu.on-advantshop.net/adminv2/account/signInGuest" method="post" class="form-sign-in-guest">
+                    <div class="captcha-block">
+                        
+
+
+
+  <div class="BDC_CaptchaDiv " id="CaptchaSource_CaptchaDiv" style="width: 228px !important; height: 35px !important; "><!--
+ --><div class="BDC_CaptchaImageDiv" id="CaptchaSource_CaptchaImageDiv" style="width: 180px !important; height: 35px !important;"><!--
+   --><a href="//captcha.org/captcha.html?asp.net" title="What is CAPTCHA Validation?" onclick="CaptchaSource.OnHelpLinkClick(); return CaptchaSource.FollowHelpLink;"><img class="BDC_CaptchaImage" id="CaptchaSource_CaptchaImage" src="/BotDetectCaptcha.ashx?get=image&amp;c=CaptchaSource&amp;t=95c1452d2456460fa002da7b71d7709b" alt="Retype the CAPTCHA code from the image" /></a><!--
+ --></div><!--
+ --><div class="BDC_CaptchaIconsDiv" id="CaptchaSource_CaptchaIconsDiv" style="width: 42px !important;"><!--
+   --><a class="BDC_ReloadLink" id="CaptchaSource_ReloadLink" href="#" onclick="CaptchaSource.ReloadImage(); this.blur(); return false;" title="Change the CAPTCHA code"><img class="BDC_ReloadIcon" id="CaptchaSource_ReloadIcon" src="/BotDetectCaptcha.ashx?get=reload-small-icon" alt="Change the CAPTCHA code" /></a><!--
+ --></div>
+    <script src="/BotDetectCaptcha.ashx?get=script-include" type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+      BotDetect.Init('CaptchaSource', '95c1452d2456460fa002da7b71d7709b', null, true, true, true, true, 1200, 7200, 0, false);
+    //]]>
+    </script>
+    <script type="text/javascript">
+    //<![CDATA[
+      try{(function(){var bdrsn = document.createElement('script'); bdrsn.type = 'text/javascript'; bdrsn.async = true; bdrsn.src = document.location.protocol + '//remote.captcha.com/include.js?i=ATABMAEwATQBMgEwFIyeENPGQ4L1n79YqAHdNkkO2a5nATIBMAEwATEBNAE2ATABMgplbi1MYXRuLVVTAzE4MAIzNQ'; var fsn = document.getElementsByTagName('script')[0]; fsn.parentNode.insertBefore(bdrsn, fsn);})();} catch(err){}
+    //]]>
+    </script>
+    <input type="hidden" name="BDC_VCID_CaptchaSource" id="BDC_VCID_CaptchaSource" value="95c1452d2456460fa002da7b71d7709b" />
+    <input type="hidden" name="BDC_BackWorkaround_CaptchaSource" id="BDC_BackWorkaround_CaptchaSource" value="0" />
+  </div>
+
+
+<div class="captcha-txt">
+    <input class="input-small" data-ng-model="techdomainclosed" id="CaptchaCode" name="CaptchaCode" placeholder="Код с картинки" required="required" type="text" value="" />
+</div>
+<link href="/BotDetectCaptcha.ashx?get=layout-stylesheet" rel="stylesheet" type="text/css" />
+                    </div>
+                    <button type="submit" class="btn btn_block btn_width-md btn-underconstruction btn-underconstruction-submit">Войти как гость</button>
+
+                        <input type="hidden" name="from" value="/api/8d681e2b-987c-4afc-aeb7-baac41321063/bonuses?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13"/>
+                </form>
+                <a class="btn btn_block btn_width-md  btn-underconstruction btn-underconstruction--alt visible-xs hidden-md" href="adminv2/login?frompage=closed">Войти как администратор</a>
+            </div>
+        </div>
+    </div>
+</div>
+ 
+</body>
+</html>
+============================================================================== 
+[36mINFO[0m[2023-12-17 19:15:45] Start SendMessageToTelegramWithLogError      
+[31mERRO[0m[2023-12-17 19:15:45] GetCardInfoEx:invalid character '<' looking for beginning of value 
+[31mERRO[0m[2023-12-17 19:15:45] Не удалось отправить сообщение в телеграм: error: Bot.Send.Message:>Users in db is none 
+[36mINFO[0m[2023-12-17 19:15:45] End SendMessageToTelegramWithLogError        
+[36mINFO[0m[2023-12-17 19:15:45] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:15:45] Completed GET /GetCardInfoEx in 500.882375ms 
+[36mINFO[0m[2023-12-17 19:30:15] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 19:30:35] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:30:35] Request: &{GET /GetCardInfoEx?card=9154184611 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.20:54290 /GetCardInfoEx?card=9154184611 <nil> <nil> <nil> 0x1400021a380} 
+[37mDEBU[0m[2023-12-17 19:30:35] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:30:35] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:30:35] URL: /GetCardInfoEx?card=9154184611          
+[37mDEBU[0m[2023-12-17 19:30:35] RequestURI: /GetCardInfoEx?card=9154184611   
+[37mDEBU[0m[2023-12-17 19:30:35] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:30:35] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:30:35] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:30:35] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:30:35] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:30:35] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 19:30:36] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:30:36.23792+03:00
+TIME DURATION: 307.0285ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:30:36 GMT
+	Expires: Sun, 17 Dec 2023 16:30:37 GMT
+	Last-Modified: Sun, 17 Dec 2023 16:30:25 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Set-Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; domain=.354630-mxiu.on-advantshop.net; expires=Mon, 01-Jan-2024 21:54:36 GMT; path=/; HttpOnly, customer=5615ed07-361f-42ed-856a-30ce74e011e4; domain=.354630-mxiu.on-advantshop.net; expires=Sat, 16-Mar-2024 16:30:36 GMT; path=/; HttpOnly
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 19:30:36] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:30:36] Completed GET /GetCardInfoEx in 308.925459ms 
+[37mDEBU[0m[2023-12-17 19:31:02] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:31:02] Request: &{GET /GetCardInfoEx?card=9154184612 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.20:54348 /GetCardInfoEx?card=9154184612 <nil> <nil> <nil> 0x14000112680} 
+[37mDEBU[0m[2023-12-17 19:31:02] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:31:02] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:31:02] URL: /GetCardInfoEx?card=9154184612          
+[37mDEBU[0m[2023-12-17 19:31:02] RequestURI: /GetCardInfoEx?card=9154184612   
+[37mDEBU[0m[2023-12-17 19:31:02] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:31:02] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:31:02] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:31:02] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:31:02] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:31:02] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 19:31:02] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; customer=5615ed07-361f-42ed-856a-30ce74e011e4
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:31:02.898242+03:00
+TIME DURATION: 43.217042ms
+HEADERS      :
+	Cache-Control: private
+	Content-Length: 44
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:31:02 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "status": "error",
+   "errors": "Invalid apikey"
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 19:31:02] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:31:02] Completed GET /GetCardInfoEx in 45.28125ms   
+[36mINFO[0m[2023-12-17 19:31:43] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 19:32:01] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:32:01] Request: &{GET /GetCardInfoEx?card=9154184613 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.20:54468 /GetCardInfoEx?card=9154184613 <nil> <nil> <nil> 0x140001123c0} 
+[37mDEBU[0m[2023-12-17 19:32:01] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:32:01] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:32:01] URL: /GetCardInfoEx?card=9154184613          
+[37mDEBU[0m[2023-12-17 19:32:01] RequestURI: /GetCardInfoEx?card=9154184613   
+[37mDEBU[0m[2023-12-17 19:32:01] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:32:01] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:32:01] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:32:01] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:32:01] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:32:01] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 19:32:01] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:32:01.251396+03:00
+TIME DURATION: 58.361333ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:32:00 GMT
+	Expires: Sun, 17 Dec 2023 16:32:02 GMT
+	Last-Modified: Sun, 17 Dec 2023 16:32:00 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Set-Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; domain=.354630-mxiu.on-advantshop.net; expires=Mon, 01-Jan-2024 21:56:01 GMT; path=/; HttpOnly, customer=6b8fcdfc-71bd-4e25-ab18-bde5505bd95b; domain=.354630-mxiu.on-advantshop.net; expires=Sat, 16-Mar-2024 16:32:01 GMT; path=/; HttpOnly
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 19:32:01] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:32:01] Completed GET /GetCardInfoEx in 60.100417ms  
+[37mDEBU[0m[2023-12-17 19:32:30] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:32:30] Request: &{GET /GetCardInfoEx?card=9154184614 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.20:54531 /GetCardInfoEx?card=9154184614 <nil> <nil> <nil> 0x140001b12c0} 
+[37mDEBU[0m[2023-12-17 19:32:30] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:32:30] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:32:30] URL: /GetCardInfoEx?card=9154184614          
+[37mDEBU[0m[2023-12-17 19:32:30] RequestURI: /GetCardInfoEx?card=9154184614   
+[37mDEBU[0m[2023-12-17 19:32:30] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:32:30] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:32:30] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:32:30] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:32:30] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:32:30] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 19:32:30] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; customer=6b8fcdfc-71bd-4e25-ab18-bde5505bd95b
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:32:30.325173+03:00
+TIME DURATION: 33.742959ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:32:30 GMT
+	Expires: Sun, 17 Dec 2023 16:32:31 GMT
+	Last-Modified: Sun, 17 Dec 2023 16:32:25 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 19:32:30] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:32:30] Completed GET /GetCardInfoEx in 35.776666ms  
+[36mINFO[0m[2023-12-17 19:33:09] Start service Advantshop Integrations v1.0   
+[36mINFO[0m[2023-12-17 19:33:47] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 19:34:03] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:34:03] Request: &{GET /GetCardInfoEx?card=9154184614 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.20:54722 /GetCardInfoEx?card=9154184614 <nil> <nil> <nil> 0x14000212780} 
+[37mDEBU[0m[2023-12-17 19:34:03] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:34:03] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:34:03] URL: /GetCardInfoEx?card=9154184614          
+[37mDEBU[0m[2023-12-17 19:34:03] RequestURI: /GetCardInfoEx?card=9154184614   
+[37mDEBU[0m[2023-12-17 19:34:03] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:34:03] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:34:03] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:34:03] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:34:03] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:34:03] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 19:34:03] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:34:03.348676+03:00
+TIME DURATION: 50.066875ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:34:03 GMT
+	Expires: Sun, 17 Dec 2023 16:34:04 GMT
+	Last-Modified: Sun, 17 Dec 2023 16:34:00 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Set-Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; domain=.354630-mxiu.on-advantshop.net; expires=Mon, 01-Jan-2024 21:58:03 GMT; path=/; HttpOnly, customer=b8644b3b-8a89-45af-b76e-59d0f85b3c65; domain=.354630-mxiu.on-advantshop.net; expires=Sat, 16-Mar-2024 16:34:03 GMT; path=/; HttpOnly
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 19:34:03] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:34:03] Completed GET /GetCardInfoEx in 51.305583ms  
+[36mINFO[0m[2023-12-17 19:34:21] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 19:34:28] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:34:28] Request: &{GET /GetCardInfoEx?card=123123123 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.20:54776 /GetCardInfoEx?card=123123123 <nil> <nil> <nil> 0x140001b1940} 
+[37mDEBU[0m[2023-12-17 19:34:28] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:34:28] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:34:28] URL: /GetCardInfoEx?card=123123123           
+[37mDEBU[0m[2023-12-17 19:34:28] RequestURI: /GetCardInfoEx?card=123123123    
+[37mDEBU[0m[2023-12-17 19:34:28] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:34:28] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:34:28] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:34:28] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:34:28] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:34:28] Start handler GetCardInfoEx                  
+[36mINFO[0m[2023-12-17 19:34:28] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:34:28] Completed GET /GetCardInfoEx in 1.441625ms   
+[37mDEBU[0m[2023-12-17 19:34:37] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:34:37] Request: &{GET /GetCardInfoEx?card=9154184612 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.20:54796 /GetCardInfoEx?card=9154184612 <nil> <nil> <nil> 0x140001b1e80} 
+[37mDEBU[0m[2023-12-17 19:34:37] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:34:37] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:34:37] URL: /GetCardInfoEx?card=9154184612          
+[37mDEBU[0m[2023-12-17 19:34:37] RequestURI: /GetCardInfoEx?card=9154184612   
+[37mDEBU[0m[2023-12-17 19:34:37] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:34:37] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:34:37] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:34:37] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:34:37] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:34:37] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 19:34:37] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:34:37.618125+03:00
+TIME DURATION: 46.652709ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:34:37 GMT
+	Expires: Sun, 17 Dec 2023 16:34:39 GMT
+	Last-Modified: Sun, 17 Dec 2023 16:34:25 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Set-Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; domain=.354630-mxiu.on-advantshop.net; expires=Mon, 01-Jan-2024 21:58:38 GMT; path=/; HttpOnly, customer=5f2450c2-4887-4849-979d-3a2bf9ee58a9; domain=.354630-mxiu.on-advantshop.net; expires=Sat, 16-Mar-2024 16:34:38 GMT; path=/; HttpOnly
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 19:34:37] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:34:37] Completed GET /GetCardInfoEx in 47.626625ms  
+[37mDEBU[0m[2023-12-17 19:46:01] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:46:01] Request: &{GET /GetCardInfoEx?card=9154184612 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:56258 /GetCardInfoEx?card=9154184612 <nil> <nil> <nil> 0x14000312100} 
+[37mDEBU[0m[2023-12-17 19:46:01] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:46:01] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:46:01] URL: /GetCardInfoEx?card=9154184612          
+[37mDEBU[0m[2023-12-17 19:46:01] RequestURI: /GetCardInfoEx?card=9154184612   
+[37mDEBU[0m[2023-12-17 19:46:01] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:46:01] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:46:01] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:46:01] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:46:01] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:46:01] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 19:46:01] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; customer=5f2450c2-4887-4849-979d-3a2bf9ee58a9
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:46:01.286354+03:00
+TIME DURATION: 151.405625ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:46:01 GMT
+	Expires: Sun, 17 Dec 2023 16:46:02 GMT
+	Last-Modified: Sun, 17 Dec 2023 16:46:00 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 19:46:01] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:46:01] Completed GET /GetCardInfoEx in 153.1115ms   
+[36mINFO[0m[2023-12-17 19:46:29] Start service Advantshop Integrations v1.0   
+[37mDEBU[0m[2023-12-17 19:47:36] Started GET /GetCardInfoEx                   
+[37mDEBU[0m[2023-12-17 19:47:36] Request: &{GET /GetCardInfoEx?card=9154184623 HTTP/1.1 1 1 map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] {} <nil> 0 [] false 192.168.0.14:8000 map[] map[] <nil> map[] 192.168.0.23:56459 /GetCardInfoEx?card=9154184623 <nil> <nil> <nil> 0x14000120540} 
+[37mDEBU[0m[2023-12-17 19:47:36] Method: GET                                  
+[37mDEBU[0m[2023-12-17 19:47:36] Host: 192.168.0.14:8000                      
+[37mDEBU[0m[2023-12-17 19:47:36] URL: /GetCardInfoEx?card=9154184623          
+[37mDEBU[0m[2023-12-17 19:47:36] RequestURI: /GetCardInfoEx?card=9154184623   
+[37mDEBU[0m[2023-12-17 19:47:36] path: /GetCardInfoEx                         
+[37mDEBU[0m[2023-12-17 19:47:36] Form: map[]                                  
+[37mDEBU[0m[2023-12-17 19:47:36] MultipartForm: <nil>                         
+[37mDEBU[0m[2023-12-17 19:47:36] ContentLength: 0                             
+[37mDEBU[0m[2023-12-17 19:47:36] Header: map[Accept:[*/*] User-Agent:[curl/8.1.2-DEV]] 
+[36mINFO[0m[2023-12-17 19:47:36] Start handler GetCardInfoEx                  
+[37mDEBU[0m[2023-12-17 19:47:36] 
+==============================================================================
+~~~ REQUEST ~~~
+GET  /api/customers?apikey=e4c2fc0287d35bff51c8129b4d544843af5197dcf9f3a8bc57027646f08bed13&phone=9154184611  HTTP/1.1
+HOST   : 354630-mxiu.on-advantshop.net
+HEADERS:
+	Accept: text/plain
+	Content-Type: application/json
+	User-Agent: Advantshop API Client-Golang/1.0.0
+BODY   :
+***** NO CONTENT *****
+------------------------------------------------------------------------------
+~~~ RESPONSE ~~~
+STATUS       : 200 OK
+PROTO        : HTTP/1.1
+RECEIVED AT  : 2023-12-17T19:47:36.389929+03:00
+TIME DURATION: 84.27025ms
+HEADERS      :
+	Cache-Control: private, max-age=1
+	Content-Length: 91
+	Content-Type: application/json; charset=utf-8
+	Date: Sun, 17 Dec 2023 16:47:36 GMT
+	Expires: Sun, 17 Dec 2023 16:47:37 GMT
+	Last-Modified: Sun, 17 Dec 2023 16:47:25 GMT
+	P3p: CP="CURa ADMa DEVa CONo HISa OUR IND DSP ALL COR"
+	Set-Cookie: ipzone=171%3b41%3b490%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0%3b7%3b101000%3b; domain=.354630-mxiu.on-advantshop.net; expires=Mon, 01-Jan-2024 22:11:36 GMT; path=/; HttpOnly, customer=623d5a80-8917-4899-be1d-4c1b88511bb1; domain=.354630-mxiu.on-advantshop.net; expires=Sat, 16-Mar-2024 16:47:36 GMT; path=/; HttpOnly
+	X-Content-Type-Options: nosniff
+	X-Download-Options: noopen
+	X-Powered-By: AdvantShop
+	X-Ua-Compatible: IE=edge
+BODY         :
+{
+   "customers": [],
+   "pagination": {
+      "count": 0,
+      "currentPage": 1,
+      "totalCount": 0,
+      "totalPageCount": 0
+   }
+}
+============================================================================== 
+[36mINFO[0m[2023-12-17 19:47:36] End handler GetCardInfoEx                    
+[36mINFO[0m[2023-12-17 19:47:36] Completed GET /GetCardInfoEx in 86.540125ms  
+[36mINFO[0m[2023-12-17 20:03:38] Start service Advantshop Integrations v1.0   
